@@ -2,7 +2,7 @@
 
 **语言**: [English](README.md) | [中文](README.zh.md)
 
-![Preview](static/preview.jpg)
+![Preview](https://github.com/BolynWang/GeophysicsHub/blob/main/%20static/preview.jpg)
 
 
 <a href="https://github.com/BolynWang/GeophysicsHub" target="_blank"><img src="https://img.shields.io/github/stars/BolynWang/GeophysicsHub?style=social" alt="GitHub stars" /></a>
@@ -38,7 +38,7 @@
 ### 2.1.1 在 GeophysicsHub 提交
 
 - 访问 [https://www.geophysicshub.com/submit](https://www.geophysicshub.com/submit) 并登录（如果没有账号，请先注册）。
-![Submit](static/submit.jpg)
+![Submit](https://github.com/BolynWang/GeophysicsHub/blob/main/%20static/submit.jpg)
 
 - 填写资源相关信息：
   - **资源链接**：网站 URL
