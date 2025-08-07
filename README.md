@@ -25,7 +25,7 @@ Whether you are a beginner learner or a researcher pursuing cutting-edge knowled
 
 We have been adding more resources to this website, but due to limitations in expertise and knowledge, the website may still have shortcomings. We welcome everyone to contribute through the following ways:
 
-1. **Submit Resources**: If you have good resources (such as software, datasets, learning materials, etc.), welcome to submit through [Resource Submission Form](https://github.com/BolynWang/GeophysicsHub/issues/new?assignees=&labels=resource&projects=&template=resource_submission.yml).
+1. **Submit Resources**: If you have good resources (such as software, datasets, learning materials, etc.), welcome to submit through [Resource Submission Form](https://www.geophysicshub.com/submit).
 2. **Fix Issues**: If you find problems with the website (such as broken links, missing resources, etc.), welcome to provide feedback through [Issue Submission Form](https://github.com/BolynWang/GeophysicsHub/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml).
 3. **Participate in Discussions**: Participate in discussions in [Discussions](https://github.com/BolynWang/GeophysicsHub/discussions), share experiences, suggestions, or questions.
 

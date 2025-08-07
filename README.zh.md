@@ -27,7 +27,7 @@
 
 我们一直在为这个网站添加更多资源，但受限于专业和见识，网站可能仍存在不足。欢迎大家通过以下方式贡献：
 
-1. **提交资源**：如果你有好的资源（如软件、数据集、学习资料等），欢迎通过 [资源提交表单](https://github.com/BolynWang/GeophysicsHub/issues/new?assignees=&labels=resource&projects=&template=resource_submission.yml) 提交。
+1. **提交资源**：如果你有好的资源（如软件、数据集、学习资料等），欢迎通过 [资源提交表单](https://www.geophysicshub.com/submit) 提交。
 2. **修复问题**：如果发现网站存在问题（如错误链接、缺失资源等），欢迎通过 [问题提交表单](https://github.com/BolynWang/GeophysicsHub/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml) 反馈。
 3. **参与讨论**：在 [Discussions](https://github.com/BolynWang/GeophysicsHub/discussions) 中参与讨论，分享经验、建议或问题。
 
