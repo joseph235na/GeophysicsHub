@@ -35,7 +35,7 @@ You can submit resources through the following two methods:
 
 ### 2.1.1 Submit on GeophysicsHub
 
-- Visit [https://www.geophysicshub.com/submit](https://www.geophysicshub.com/submit) and log in (if you don't have an account, please register first).
+- Visit [https://www.geophysics.icu/submit](https://www.geophysics.icu/submit) and log in (if you don't have an account, please register first).
 ![Submit](https://github.com/BolynWang/GeophysicsHub/blob/main/%20static/submit.jpg)
 
 - Fill in resource-related information:
@@ -106,7 +106,7 @@ Thank you very much for your attention and support for GeophysicsHub! If you hav
 
 🐙 **GitHub**: [Project Repository](https://github.com/BolynWang/GeophysicsHub) | [Submit Issue](https://github.com/BolynWang/GeophysicsHub/issues) | [GitHub Discussions](https://github.com/BolynWang/GeophysicsHub/discussions)
 
-🌐 **Websites**: [GeophysicsHub](https://www.geophysicshub.com) | [Personal Website](https://wbolyn.com)
+🌐 **Websites**: [GeophysicsHub](https://www.geophysics.icu) | [Personal Website](https://wbolyn.com)
 
 📱 **Social Media**: [Twitter/X](https://x.com/bolyn_wang) | WeChat Official Account: 王博霖
 

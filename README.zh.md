@@ -37,7 +37,7 @@
 
 ### 2.1.1 在 GeophysicsHub 提交
 
-- 访问 [https://www.geophysicshub.com/submit](https://www.geophysicshub.com/submit) 并登录（如果没有账号，请先注册）。
+- 访问 [https://www.geophysics.icu/submit](https://www.geophysics.icu/submit) 并登录（如果没有账号，请先注册）。
 ![Submit](https://github.com/BolynWang/GeophysicsHub/blob/main/%20static/submit.jpg)
 
 - 填写资源相关信息：
@@ -108,7 +108,7 @@
 
 🐙 **GitHub**: [项目仓库](https://github.com/BolynWang/GeophysicsHub) | [提交 Issue](https://github.com/BolynWang/GeophysicsHub/issues) | [GitHub Discussions](https://github.com/BolynWang/GeophysicsHub/discussions)
 
-🌐 **网站**: [GeophysicsHub](https://www.geophysicshub.com) | [个人网站](https://wbolyn.com)
+🌐 **网站**: [GeophysicsHub](https://www.geophysics.icu) | [个人网站](https://wbolyn.com)
 
 📱 **社交媒体**: [Twitter/X](https://x.com/bolyn_wang) | 微信公众号：王博霖
 
